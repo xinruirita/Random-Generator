@@ -1,0 +1,11 @@
+*{
+  font-size:50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#smoothie{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
